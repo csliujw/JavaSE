@@ -4,29 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBarBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooByAtomic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooByReentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBySemaphore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBySync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/leetcode 多线程代码题" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_core_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_core_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_samples_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_samples_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+    <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="add leetcode 多线程编程题">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FizzBuzz_1_1195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FizzBuzz_2_1195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_1_1115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_2_1115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_3_1115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_4_1115.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_1_1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_2_1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_3_1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_4_1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_5_1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_6_1114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/H2O_1_1117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_1_1116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_2_1116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_2_1116_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_3_1116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_4_1116.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/unlock/MyAtomicInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/unlock/MyAtomicInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/unlock/UnsafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/unlock/UnsafeDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,23 +76,96 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/concurrent/src/main/java/leetcode" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Java\JavaSE\concurrent\src\main\java\leetcode" />
       <recent name="E:\JavaSE\tij\src\enhance" />
       <recent name="E:\JavaSE\concurrent\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ZeroEvenOdd_2_1116_">
+    <configuration name="ZeroEvenOdd_2_1116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroEvenOdd_2_1116" />
+      <module name="concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd_2_1116_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroEvenOdd_2_1116_" />
+      <module name="concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd_3_1116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroEvenOdd_3_1116" />
+      <module name="concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd_3_1116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroEvenOdd_3_1116" />
+      <module name="concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd_4_1116" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroEvenOdd_4_1116" />
+      <module name="concurrent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -104,6 +177,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZeroEvenOdd_2_1116_" />
+        <item itemvalue="Application.ZeroEvenOdd_3_1116_" />
+        <item itemvalue="Application.ZeroEvenOdd_3_1116" />
+        <item itemvalue="Application.ZeroEvenOdd_2_1116" />
+        <item itemvalue="Application.ZeroEvenOdd_4_1116" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,11 +196,23 @@
       <option name="presentableId" value="Default" />
       <updated>1636512337805</updated>
       <workItem from="1636512339078" duration="2955000" />
-      <workItem from="1636778366610" duration="313000" />
+      <workItem from="1636778366610" duration="20654000" />
     </task>
+    <task id="LOCAL-00001" summary="add leetcode 多线程编程题">
+      <created>1636778730365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636778730365</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add leetcode 多线程编程题" />
+    <option name="LAST_COMMIT_MESSAGE" value="add leetcode 多线程编程题" />
   </component>
 </project>
