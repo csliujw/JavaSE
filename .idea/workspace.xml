@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="add leetcode 多线程编程题">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FizzBuzz_1_1195.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FizzBuzz_2_1195.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_1_1115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_2_1115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_3_1115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/FooBar_4_1115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_1_1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_2_1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_3_1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_4_1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_5_1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/Foo_6_1114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/H2O_1_1117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_1_1116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_2_1116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_2_1116_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_3_1116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/ZeroEvenOdd_4_1116.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/unlock/MyAtomicInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/unlock/MyAtomicInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/unlock/UnsafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/unlock/UnsafeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/H2O_1_1117.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/H2O_1_1117.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +176,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636512337805</updated>
       <workItem from="1636512339078" duration="2955000" />
-      <workItem from="1636778366610" duration="20654000" />
+      <workItem from="1636778366610" duration="20887000" />
     </task>
     <task id="LOCAL-00001" summary="add leetcode 多线程编程题">
       <created>1636778730365</created>
@@ -205,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636778730365</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add leetcode 多线程编程题">
+      <created>1636816376945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636816376945</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
