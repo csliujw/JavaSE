@@ -4,43 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="add leetcode 多线程编程题">
-      <change afterPath="$PROJECT_DIR$/tij/src/Primer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter19/BoundedClassReferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter19/ClassInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter19/DynamicSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter19/ID2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter19/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter19/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/AbstraceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/EnumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/FinalOverridingIllusion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/Implementation2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/PolyConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/PrivateOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tij/src/tij/chapter3/ThisDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_4_6.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_core_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_core_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_samples_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jcstress_jcstress_samples_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_core_1_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jmh_jmh_generator_annprocess_1_23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjdk_jol_jol_core_0_14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/concurrent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/concurrent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/H2O_1_1117.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent/src/main/java/leetcode/H2O_1_1117.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tij/src/enhance/video/enumeration/SomeFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/tij/src/video/enumeration/SomeFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tij/src/tij/chapter17/AddAndSubtractPaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/tij/src/tij/chapter17/AddAndSubtractPaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tij/src/tij/chapter17/PathInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/tij/src/tij/chapter17/PathInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tij/tij.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tij/tij.iml" afterDir="false" />
+    <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="update On Java Code">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +192,7 @@
       <workItem from="1648960671525" duration="16879000" />
       <workItem from="1649056170073" duration="133000" />
       <workItem from="1651998688680" duration="120000" />
-      <workItem from="1652257968623" duration="8358000" />
+      <workItem from="1652257968623" duration="8459000" />
     </task>
     <task id="LOCAL-00001" summary="add leetcode 多线程编程题">
       <created>1636778730365</created>
@@ -250,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636816616332</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update On Java Code">
+      <created>1652276503644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652276503644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +230,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add leetcode 多线程编程题" />
-    <option name="LAST_COMMIT_MESSAGE" value="add leetcode 多线程编程题" />
+    <MESSAGE value="update On Java Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="update On Java Code" />
   </component>
 </project>
