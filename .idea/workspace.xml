@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="update On Java Code">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="e5533e9c-798b-4590-9873-74015acf770b" name="Changes" comment="add gitignore file">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +192,7 @@
       <workItem from="1648960671525" duration="16879000" />
       <workItem from="1649056170073" duration="133000" />
       <workItem from="1651998688680" duration="120000" />
-      <workItem from="1652257968623" duration="8459000" />
+      <workItem from="1652257968623" duration="8560000" />
     </task>
     <task id="LOCAL-00001" summary="add leetcode 多线程编程题">
       <created>1636778730365</created>
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652276503644</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add gitignore file">
+      <created>1652276600036</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652276600036</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +238,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add leetcode 多线程编程题" />
     <MESSAGE value="update On Java Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update On Java Code" />
+    <MESSAGE value="add gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore file" />
   </component>
 </project>
