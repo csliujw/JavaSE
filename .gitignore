@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Example user template template
 ### Example user template
@@ -23,3 +24,11 @@ target/
 
 # BlueJ files
 *.ctxt
+=======
+*.iml
+.idea/
+out/
+classes/
+*.class
+target/
+>>>>>>> 7854d0c61400fdf84e26f126c23828b344f6d665

@@ -1,8 +1,7 @@
 package leetcode;
 
-import java.util.concurrent.CountDownLatch;
+import java.util.Arrays;
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.atomic.AtomicInteger;
 
 public class H2O_1_1117 {
     static class H2O {
